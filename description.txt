@@ -1,0 +1,2 @@
+The Caesar Cipher project is a Python program that implements the Caesar Cipher algorithm for encrypting and decrypting text messages.
+The Caesar Cipher is a simple substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
