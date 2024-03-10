@@ -14,7 +14,7 @@ def coder_decoder(message, shift, command):
                 new_index = (index - shift) % len(alphabet)
             elif command == "encode":
                 new_index = (index + shift) % len(alphabet)
-            new_message += alphabet[new_index]
+            new_message += alphabet[new_index] #asdasdasd
     return new_message
 
 def main():
